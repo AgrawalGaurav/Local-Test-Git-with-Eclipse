@@ -5,7 +5,7 @@ Author: Gaurav
 Description: The purpose of this script design is to send email to collector
 and user for all the open Invoice, Credit Memo, Customer Payment using scheduler every 15th of month
 Version : 1.2
-testing
+testing new XYZ
 
 *******************************************************************************/
 var UDID_DET = {
